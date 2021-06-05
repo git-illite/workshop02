@@ -1,7 +1,7 @@
 #ifndef SDDS_EMPLOYEE_H_
 #define SDDS_EMPLOYEE_H_
 
-#define DATAFILE "employees.csv"
+#define DATAFILE "employees2.csv"
 namespace sdds {
     struct Employee {
         char* m_name;
